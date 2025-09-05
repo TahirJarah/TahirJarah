@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TahirJarah
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on Frontend website Development 
+- 👀 I'M A Data Analyst 
+- 🌱 I have skills in SQL, Python, Excel, Power BI, R
+- 💞️ I’m Enthusiast about data
 - 📫 How to reach me tahirjarah@gmail.com 
 
 <!---
